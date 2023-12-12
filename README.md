@@ -1,5 +1,3 @@
 # Tempo Chat (Orginization Website)
 
-View the website [here][WebsiteLink]!
-
-[WebsiteLink]: https://tempo-chat.github.io/
+View the website <a href="https://tempo-chat.github.io/" target="_blank">here</a>!
